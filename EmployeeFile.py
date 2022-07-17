@@ -11,14 +11,14 @@ class Employee:
     def getID(self):
         return self.ID
     def getName(self):
-        return self.Name
+        return self.name
     def getSalary(self):
-        return self.Salary
+        return self.salary
     def getAddress(self):
-        return self.Address
+        return self.address
     def getDepartment(self):
-        return self.Department
+        return self.department
     def getEmail(self):
-        return self.Email
+        return self.email
     def getPhone(self):
-        return self.Phone
+        return self.phone
